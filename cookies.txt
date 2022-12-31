@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.playzone.vn	TRUE	/	FALSE	1999999999	PHPSESSID	71dbe36c5b3f3c2dccbd7dbbf12627ec
+www.playzone.vn	TRUE	/	FALSE	1999999999	language	vi-vn
+www.playzone.vn	TRUE	/	FALSE	1999999999	currency	vnd
+www.playzone.vn	TRUE	/	FALSE	1999999999	default	066ad75c566a3ede7004289c67bb1efa
+
